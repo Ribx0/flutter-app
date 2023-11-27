@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917345198886",
+    "project_id": "laabisaad-e18f3",
+    "storage_bucket": "laabisaad-e18f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917345198886:android:8766b2e1138d5d606917e7",
+        "android_client_info": {
+          "package_name": "com.example.laabisaad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbn9AW8pu9XSmT6V3Jmf7s23fCGkPyUv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
